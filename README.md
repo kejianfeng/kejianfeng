@@ -1,12 +1,10 @@
 <p align="center"><img width="100%" src="./header.png" /></p>
 
-### Hi there, I am Jamki👋
-
-> A Front end developer from **Guangzhou, China**. \n
+> A Front end developer from **Guangzhou, China**.
 >
-> Graduated from Universe University of Technology (Guangdong University of Technology) in July 2019 \n
+> Graduated from Universe University of Technology (Guangdong University of Technology) in July 2019.
 > 
-> I love to dance, play guitar, and sing. I also have a dream of traveling around the world
+> I love to dance, play guitar, and sing. I also have a dream of traveling around the world.
 
 ### 🏗️ Learning:
 
