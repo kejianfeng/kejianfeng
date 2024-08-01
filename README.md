@@ -3,6 +3,8 @@
 ### Hi there, I am Jamki👋
 
 > A Front end developer from **Guangzhou, China**.
+> Graduated from Universe University of Technology (Guangdong University of Technology) in July 2019
+> I love to dance, play guitar, and sing. I also have a dream of traveling around the world
 
 ### 🏗️ Learning:
 
