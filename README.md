@@ -2,7 +2,7 @@
 
 > A Front end developer from **Guangzhou, China**.
 >
-> Graduated from Universe University of Technology (Guangdong University of Technology) in July 2019.
+> Graduated from Guangdong University of Technology in July 2019.
 > 
 > Love to dance, play guitar, and sing. I also have a dream of traveling around the world.
 
