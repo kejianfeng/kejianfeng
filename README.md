@@ -21,4 +21,4 @@
 ### 🏠 Blog:
 
 - **[https://www.jianfengke.com](https://www.jianfengke.com)**
-- **[https://www.jianfengke.com](https://frontend-kb.jianfengke.com)**
+- **[https://frontend-kb.jianfengke.com](https://frontend-kb.jianfengke.com)**
